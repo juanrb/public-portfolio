@@ -1,8 +1,10 @@
-## Instalar dependencias
+Both backend and frontend run in the same project, allowing the dev to debug front/back at the same time.
+
+## Install dependencies
 ### `npm install`
 
-## Iniciar back
+## Run backend
 ### `nodemon server`
 
-## Iniciar front
+## Run frontend
 ### `npm start`
